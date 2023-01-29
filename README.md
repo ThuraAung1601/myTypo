@@ -1,5 +1,10 @@
 # myTypo
-myTypo is a python package to simulate typographical errors in Myanmar language. It was built based on the package "typo" for English Language.
+myTypo is a python package to simulate typographical errors in Myanmar language.
+<br/> 
+It was built based on the package "typo" for English Language. <br/>
+<br/>
+The Myanmar typographic errors are simulated based on the following keyboard.
+![Kb](assets/burmeseKeyBd.png)
 
 ### Usage
 
