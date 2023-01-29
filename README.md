@@ -34,5 +34,11 @@ Given the input sentence "ကျန်းကျန်းမာမာ ချမ�
 | random_space  | Adds a random space in the string.                                        |ကျန ်းကျန်းမာမာ ချမ်းချမ်းသာသာ ဘေးရန် ကာစီးသည် |
 | repeated_char | Repeats a random word character.                                          |ကျနန်းကျန်းမာမာ ချမ်းချမ်းသာသာ ဘေးရန် ကာစီးသည်  |
 
-Reference : 
+
+
+### Reference
 - Ranvijay Kumar, typo: "About A python package to simulate typographical errors". Github Link: https://github.com/ranvijaykumar/typo
+
+### Todo
+- Update the simulator to simulate spelling errors by using edit distance approach
+- Update the simulator for common spelling errors in both syllable and word levels
